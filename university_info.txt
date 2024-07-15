@@ -1,0 +1,7 @@
+name: Deen Dayal Upadhyaya Gorakhpur University
+address: Civil Lines, Gorakhpur - 273009, Uttar Pradesh (INDIA)
+established: 1900
+courses: Computer Science, Engineering, Medicine, Arts
+department: Faculty of Agriculture,Faculty of Arts,Faculty of Commerce,Faculty of Engineering and Technology,Faculty of Law,Faculty of Medicine,Faculty of Science,Faculty of Education
+vc: Prof. Poonam Tandon
+CSE head: Rajeev Ranjan Kumar Tripathi
